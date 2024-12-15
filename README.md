@@ -2,11 +2,13 @@
 Starting May 2024, Restart December 2024. Free access to the public.
 # ATTENTION 
 Don't re-upload it, don't steal it, let them download it from the source.
-# Full Tutorial & ISO Beta 
-(Must use this ISO):
-https://www.facebook.com/100041989456753/posts/1238545674221736/?app=fbl
+# FULL TUTORIAL & ISO BETA 
+(Must use this ISO): [Download](https://www.facebook.com/100041989456753/posts/1238545674221736/?app=fbl)
+# INDONESIAN PATCHED
+Cek [Here](https://github.com/andriyan-blaze/SB2H-PS2-ID-TRANSLATION/releases/tag/PS2)
 # Textures English Patched Beta v3
-Link Here:
-https://andriyanblaze.blogspot.com/p/english-patched-v3-sengoku-basara-2.html
+Link Here: [Download](
+https://andriyanblaze.blogspot.com/p/english-patched-v3-sengoku-basara-2.html)
 # CREDITS
-15-12-2024, ANDRIYAN BLAZE.
+• [Gil-Unx](https://github.com/gil-unx)
+• [Andriyan Blaze](https://www.facebook.com/andriyan.blaze.35?mibextid=ZbWKwL)
