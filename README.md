@@ -5,7 +5,7 @@ Don't re-upload it, don't steal it, let them download it from the source.
 # FULL TUTORIAL & ISO BETA 
 (Must use this ISO): [Download](https://www.facebook.com/100041989456753/posts/1238545674221736/?app=fbl)
 # INDONESIAN PATCHED
-Progress Cek [Here](https://github.com/andriyan-blaze/SB2H-PS2-ID-TRANSLATION/releases/tag/PS2)
+Progress Cek [Here](https://github.com/andriyan-blaze/SB2H-PS2-ID-TRANSLATION)
 # TEXTURES ENGLISH PATCHED BETA V3
 Link Here: [Download](
 https://andriyanblaze.blogspot.com/p/english-patched-v3-sengoku-basara-2.html)
