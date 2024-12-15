@@ -1,5 +1,5 @@
 # SB2H-PS2-ENG-TRANSLATION
-Starting May 2024, Restart December 2024.
+Starting May 2024, Restart December 2024. Free access to the public.
 # ATTENTION 
 Don't re-upload it, don't steal it, let them download it from the source.
 # Full Tutorial & ISO Beta 
